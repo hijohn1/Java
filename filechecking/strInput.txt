@@ -1,0 +1,11 @@
+Ira Rudowsky 87654.32 F Brooklyn,NY 
+Jane Doe 987609.87 F NY,NY
+Mickey Mantle 345678.30 D Orlando,FL 
+Fran Young 10456.82 G Boston,MA
+Richard Clark 67890.32 D Washington,DC
+Jack Smith 23489A.82 D Houston,TX
+Serena Williams 1295609.87 D Denver,CO
+James Lee 95609.87 F Hudson,NJ
+Rock Jones 78090.09 D Oakland,CA
+David Johnson 90008.898 F NY,NY
+Amy Wu 243434..22a G Chicago,IL
