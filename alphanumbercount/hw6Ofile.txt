@@ -1,0 +1,58 @@
+
+
+              *********        ******        HW6             *******            
+________________________________________________________________________________________________________
+
+
+The number of letters: 370
+The number of digits: 6
+The number of other characters: 76
+
+
+The numbers from a and z: 
+The number of a: 41
+The number of b: 4
+The number of c: 14
+The number of d: 13
+The number of e: 41
+The number of f: 9
+The number of g: 6
+The number of h: 14
+The number of i: 25
+The number of j: 1
+The number of k: 2
+The number of l: 15
+The number of m: 10
+The number of n: 29
+The number of o: 25
+The number of p: 4
+The number of r: 25
+The number of s: 27
+The number of t: 28
+The number of u: 8
+The number of v: 2
+The number of w: 7
+The number of y: 8
+The number of z: 1
+
+
+
+The numbers from A and Z: 
+The number of A: 1
+The number of C: 1
+The number of D: 1
+The number of F: 1
+The number of I: 1
+The number of M: 2
+The number of N: 1
+The number of S: 2
+The number of T: 1
+
+
+
+The numbers from 0 and 9: 
+The number of 0: 5
+The number of 5: 1
+
+
+
