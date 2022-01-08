@@ -1,0 +1,44 @@
+
+  CISC1115 MY11        HW7           Due Date: 11/30/2020
+__________________________________________________________________________________________________
+
+
+The average score of each blower:
+
+	Sam	      143.33
+	Julie	      193.75
+	Fred	      99.00
+	Pablo	      185.67
+	Jim	      225.00
+	Frank	      237.00
+
+
+The ascending order by name:
+
+	Frank	      237.00
+	Fred	      99.00
+	Jim	      225.00
+	Julie	      193.75
+	Pablo	      185.67
+	Sam	      143.33
+
+
+The descending order by average score:
+
+	Frank	      237.00
+	Jim	      225.00
+	Julie	      193.75
+	Pablo	      185.67
+	Sam	      143.33
+	Fred	      99.00
+
+
+The searching result of Sam:  
+
+	Found!  Sam	      143.33
+
+
+The searching result of Roberta:
+
+	   Not found
+
